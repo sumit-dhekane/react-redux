@@ -15,7 +15,7 @@ function RoutesContainer(){
         <li className="nav-item">
           <Link to='/products'className="nav-link active">Products</Link>
         </li>
-        <li class="nav-item">
+        <li className="nav-item">
           <Link to='/posts'className="nav-link active">Posts</Link>
 
         </li>
