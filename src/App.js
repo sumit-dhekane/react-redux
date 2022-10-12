@@ -8,7 +8,6 @@ import RoutesContainer from './components/Routes';
 
 function App() {
   return (
-
     <Provider store={store}>
     <RoutesContainer/>
     </Provider>
